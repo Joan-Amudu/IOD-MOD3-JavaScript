@@ -13,3 +13,15 @@ originals remain independent
 let teamSports = ['Hockey', 'Cricket', 'Volleyball'];
 let dog1 = 'Bingo';
 let cat1 = { name: 'Fluffy', breed: 'Siberian' };
+let moreSports = teamSports;
+moreSports.push('Swimming' , 'Basketball');
+let dog2 = dog1;
+dog2 = 'Snoopy';
+let cat2 = cat1;
+cat2 = {name: 'Sidney'}
+
+console.log(teamSports);
+console.log(dog1);
+console.log(cat1);
+console.log(cat2);
+console.log(dog2);

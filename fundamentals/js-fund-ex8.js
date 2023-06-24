@@ -26,6 +26,7 @@ for (let key in sydney){
     console.log(key+": " +sydney[key]);
 }
 console.log("---------------");
+
 for (let key in melbourne){
     console.log(key+": " +melbourne[key]);
 }
