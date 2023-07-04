@@ -13,7 +13,5 @@ function ucFirstLetters(string) {
   }
   console.log(ucFirstLetters("hello world!"));
   console.log(ucFirstLetters("los angeles"));
-  console.log(ucFirstLetters("i used chatgpt for help"));
-  console.log(ucFirstLetters("i also used stackoverflow for help"));
   console.log(ucFirstLetters("javaScript is hard but fun"));
   
